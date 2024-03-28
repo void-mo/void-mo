@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @void-mo
-- 👀 I’m interested in looking others prohect to get some ideas.
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- working on a personal game
+- art direct/design
+- little bit of Java & Python
+- instagram: void_mo
 
 <!---
 void-mo/void-mo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
